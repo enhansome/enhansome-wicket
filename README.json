@@ -98,7 +98,7 @@
             "last_commit": "2025-08-16T07:58:17Z",
             "owner": "OrienteerBAP",
             "repo": "JNPM",
-            "stars": 27
+            "stars": 28
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2017-05-05T15:10:59Z",
             "owner": "onehippo",
             "repo": "wicket-extjs-integration",
-            "stars": 1
+            "stars": 0
           }
         }
       ],
@@ -1011,7 +1011,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-09T12:02:24Z",
+            "last_commit": "2026-08-13T17:01:13Z",
             "owner": "wicketstuff",
             "repo": "wiquery",
             "stars": 8
@@ -1062,7 +1062,7 @@
             "last_commit": "2021-08-15T03:34:38Z",
             "owner": "OrienteerBAP",
             "repo": "vuecket",
-            "stars": 33
+            "stars": 34
           }
         },
         {
@@ -1107,10 +1107,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T03:25:27Z",
+            "last_commit": "2026-08-13T19:08:33Z",
             "owner": "geoserver",
             "repo": "geoserver",
-            "stars": 4430
+            "stars": 4431
           }
         },
         {
@@ -1138,7 +1138,7 @@
             "last_commit": "2021-03-17T12:25:51Z",
             "owner": "estatio",
             "repo": "estatio",
-            "stars": 204
+            "stars": 203
           }
         },
         {
@@ -1160,7 +1160,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:59:55.775Z",
+    "last_updated": "2026-08-13T19:48:13.420Z",
     "original_repository": "PhantomYdn/awesome-wicket",
     "original_repository_sha": "c084bb19e4cc8e33f5341d55deaa12c782d8fb5b",
     "enhanced_repository": "enhansome/enhansome-wicket",

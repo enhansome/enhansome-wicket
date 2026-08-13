@@ -38,7 +38,7 @@ List of libraries and components which can be used in your application
 * [wicket-source](https://github.com/42Lines/wicket-source) ⭐ 37 | 🐛 9 | 🌐 Java | 📅 2020-10-12 - Speeds up Wicket development by providing click-through from browser HTML back to the original Wicket components in your source.
 * [wicket-webjars](https://github.com/l0rdn1kk0n/wicket-webjars) ⭐ 35 | 🐛 9 | 🌐 Java | 📅 2026-04-10 - Integration of webjars for Wicket.
 * [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) ⭐ 34 | 🐛 12 | 🌐 Java | 📅 2024-02-06 - Integration of Wicket with [OrientDB](http://orientdb.com/).
-* [JNPM](https://github.com/OrienteerBAP/JNPM) ⭐ 27 | 🐛 2 | 🌐 Java | 📅 2025-08-16 - Java library for JS Node Package Manager(NPM). Provides Wicket resource for transparent obtaining of NPM package and providing required file from it.
+* [JNPM](https://github.com/OrienteerBAP/JNPM) ⭐ 28 | 🐛 2 | 🌐 Java | 📅 2025-08-16 - Java library for JS Node Package Manager(NPM). Provides Wicket resource for transparent obtaining of NPM package and providing required file from it.
 * [wicket-shieldui](https://github.com/shieldui/wicket-shieldui) ⭐ 25 | 🐛 2 | 🌐 Java | 📅 2024-07-12 - Components leveraging the use of the [Shield UI](http://www.shieldui.com/) JavaScript library.
 * [wicket-fullcalendar](https://github.com/42Lines/wicket-fullcalendar) ⭐ 23 | 🐛 5 | 🌐 JavaScript | 📅 2020-09-02 - Integration of [FullCalendar](http://fullcalendar.io/) javascript lib with Wicket.
 * [wicket-dnd](https://github.com/svenmeier/wicket-dnd) ⭐ 19 | 🐛 10 | 🌐 Java | 📅 2023-06-13 - Generic Drag\&Drop framework for Wicket.
@@ -110,7 +110,7 @@ List of libraries and components which can be used in your application
 * [wicket-foundation](https://github.com/wicketstuff/core/tree/master/wicket-foundation) ⭐ 351 | 🐛 65 | 🌐 Java | 📅 2026-08-10 - Integrates Wicket and [Zurb Foundation](http://foundation.zurb.com/).
 * [Wicket Rest Annotations](https://github.com/wicketstuff/core/tree/master/wicketstuff-restannotations-parent) ⭐ 351 | 🐛 65 | 🌐 Java | 📅 2026-08-10 - Provides a special resource class and a set of annotations to implement REST API/services in much the same way as we do it with Spring MVC or with the standard JAX-RS.
 * [WHighCharts](https://github.com/wicketstuff/wiquery-highcharts) ⭐ 11 | 🐛 2 | 🌐 JavaScript | 📅 2018-05-18 - Provides WiQuery bindings for HighCharts.
-* [WiQuery](https://github.com/wicketstuff/wiquery) ⭐ 8 | 🐛 3 | 🌐 Java | 📅 2026-08-09 - Wicket integration with jQuery and jQuery UI.
+* [WiQuery](https://github.com/wicketstuff/wiquery) ⭐ 8 | 🐛 2 | 🌐 Java | 📅 2026-08-13 - Wicket integration with jQuery and jQuery UI.
 * [WqPlot](https://github.com/wicketstuff/wiquery-jqplot) ⭐ 8 | 🐛 3 | 🌐 JavaScript | 📅 2015-11-17 - Provides WiQuery bindings for JqPlot.
 
 ## Web Frameworks
@@ -118,7 +118,7 @@ List of libraries and components which can be used in your application
 Web Framework on top of wicket which allow you to build your system easily and smoothly
 
 * [Orienteer](https://github.com/OrienteerDW/Orienteer) ⭐ 260 | 🐛 171 | 🌐 Java | 📅 2024-02-08 - Web framework on top of Wicket and [OrientDB](http://orientdb.com/) to build you own CRM, CMS, ERP, mobile app backend or just common site.
-* [Vuecket](https://github.com/OrienteerBAP/vuecket) ⭐ 33 | 🐛 4 | 🌐 Java | 📅 2021-08-15 - Web Framework which integrates VueJS and Wicket and most natural way for both of them
+* [Vuecket](https://github.com/OrienteerBAP/vuecket) ⭐ 34 | 🐛 4 | 🌐 Java | 📅 2021-08-15 - Web Framework which integrates VueJS and Wicket and most natural way for both of them
 * [Wicketopia](https://github.com/jwcarman/Wicketopia) ⭐ 18 | 🐛 1 | 🌐 Java | 📅 2017-03-25 - Rapid Application Development (RAD) library for the Wicket.
 * [Nocket](https://github.com/Nocket/nocket) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2019-10-16 - Naked Object based framework for wicket.
 * [Apache Isis](https://isis.apache.org/) - A framework for rapidly developing domain-driven apps in Java.
@@ -130,7 +130,7 @@ Web Framework on top of wicket which allow you to build your system easily and s
 
 End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks)
 
-* [GeoServer](https://github.com/geoserver/geoserver) ⭐ 4,430 | 🐛 37 | 🌐 Java | 📅 2026-08-13 - Open source software server written in Java that allows users to share and edit geospatial data.
+* [GeoServer](https://github.com/geoserver/geoserver) ⭐ 4,431 | 🐛 32 | 🌐 Java | 📅 2026-08-13 - Open source software server written in Java that allows users to share and edit geospatial data.
 * [Orienteer](https://github.com/OrienteerDW/Orienteer) ⭐ 260 | 🐛 171 | 🌐 Java | 📅 2024-02-08 - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps.
 * [Estatio](https://github.com/estatio/estatio) ⚠️ Archived - Open source estate management built on Apache Isis and wicket.
 * [Yes Cart](https://github.com/inspire-software/yes-cart) ⭐ 113 | 🐛 15 | 🌐 Java | 📅 2026-05-07 - Pure e-Commerse platform.
