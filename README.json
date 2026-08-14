@@ -56,7 +56,7 @@
             "last_commit": "2020-10-12T18:09:50Z",
             "owner": "42Lines",
             "repo": "wicket-source",
-            "stars": 37
+            "stars": 36
           }
         },
         {
@@ -196,7 +196,7 @@
             "last_commit": "2016-01-14T14:11:24Z",
             "owner": "wicket-acc",
             "repo": "wicket-autowire",
-            "stars": 10
+            "stars": 9
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2020-10-10T02:17:56Z",
             "owner": "PhantomYdn",
             "repo": "wicket-console",
-            "stars": 9
+            "stars": 8
           }
         },
         {
@@ -1090,7 +1090,7 @@
             "last_commit": "2019-10-16T14:53:19Z",
             "owner": "Nocket",
             "repo": "nocket",
-            "stars": 9
+            "stars": 8
           }
         }
       ],
@@ -1107,7 +1107,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T19:08:33Z",
+            "last_commit": "2026-08-14T17:55:30Z",
             "owner": "geoserver",
             "repo": "geoserver",
             "stars": 4431
@@ -1160,7 +1160,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:48:13.420Z",
+    "last_updated": "2026-08-14T19:39:55.670Z",
     "original_repository": "PhantomYdn/awesome-wicket",
     "original_repository_sha": "c084bb19e4cc8e33f5341d55deaa12c782d8fb5b",
     "enhanced_repository": "enhansome/enhansome-wicket",

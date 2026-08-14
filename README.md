@@ -35,7 +35,7 @@ List of libraries and components which can be used in your application
 * [wicket-bootstrap](https://github.com/l0rdn1kk0n/wicket-bootstrap) ⭐ 305 | 🐛 30 | 🌐 Java | 📅 2026-08-02 - Integration of Bootstrap Toolkit for Wicket.
 * [wicket-spring-boot](https://github.com/MarcGiffing/wicket-spring-boot) ⭐ 156 | 🐛 16 | 🌐 Java | 📅 2026-05-20 - Makes it easy to create Wicket projects with a minimum of configuration effort by using Sprint Boot.
 * [wicked-charts](https://github.com/thombergs/wicked-charts) ⭐ 94 | 🐛 31 | 🌐 JavaScript | 📅 2024-07-31 - Beautiful and interactive javascript charts for Java-based web applications.
-* [wicket-source](https://github.com/42Lines/wicket-source) ⭐ 37 | 🐛 9 | 🌐 Java | 📅 2020-10-12 - Speeds up Wicket development by providing click-through from browser HTML back to the original Wicket components in your source.
+* [wicket-source](https://github.com/42Lines/wicket-source) ⭐ 36 | 🐛 9 | 🌐 Java | 📅 2020-10-12 - Speeds up Wicket development by providing click-through from browser HTML back to the original Wicket components in your source.
 * [wicket-webjars](https://github.com/l0rdn1kk0n/wicket-webjars) ⭐ 35 | 🐛 9 | 🌐 Java | 📅 2026-04-10 - Integration of webjars for Wicket.
 * [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) ⭐ 34 | 🐛 12 | 🌐 Java | 📅 2024-02-06 - Integration of Wicket with [OrientDB](http://orientdb.com/).
 * [JNPM](https://github.com/OrienteerBAP/JNPM) ⭐ 28 | 🐛 2 | 🌐 Java | 📅 2025-08-16 - Java library for JS Node Package Manager(NPM). Provides Wicket resource for transparent obtaining of NPM package and providing required file from it.
@@ -45,8 +45,8 @@ List of libraries and components which can be used in your application
 * [wicket-jquery-selectors](https://github.com/l0rdn1kk0n/wicket-jquery-selectors) ⭐ 16 | 🐛 7 | 🌐 Java | 📅 2026-02-22 - Library for working with JQuery and Wicket.
 * [wicket-clientside-logging](https://github.com/l0rdn1kk0n/wicket-clientside-logging) ⭐ 15 | 🐛 0 | 🌐 Java | 📅 2018-03-02 - Helper library that allows javascript logging on client side, all log messages will be stored on server side too.
 * [wicket-crudifier](https://github.com/premium-minds/wicket-crudifier) ⭐ 12 | 🐛 13 | 🌐 Java | 📅 2026-07-28 - Library to easily create CRUD's with wicket.
-* [wicket-autowire](https://github.com/wicket-acc/wicket-autowire) ⭐ 10 | 🐛 0 | 🌐 Java | 📅 2016-01-14 - Makes your life easier by automatic creation of component according to provided annotation.
-* [wicket-console](https://github.com/PhantomYdn/wicket-console) ⭐ 9 | 🐛 1 | 🌐 Java | 📅 2020-10-10 - Lightweight AJAX-enabled web console for runtime execution JS scripts on server side.
+* [wicket-autowire](https://github.com/wicket-acc/wicket-autowire) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2016-01-14 - Makes your life easier by automatic creation of component according to provided annotation.
+* [wicket-console](https://github.com/PhantomYdn/wicket-console) ⭐ 8 | 🐛 1 | 🌐 Java | 📅 2020-10-10 - Lightweight AJAX-enabled web console for runtime execution JS scripts on server side.
 * [wicket-requirejs](https://github.com/l0rdn1kk0n/wicket-requirejs) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2018-03-02 - Helper to use require.js in your Wicket application.
 * [wicket-mustache](https://github.com/l0rdn1kk0n/wicket-mustache) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2018-03-02 - Provides a specialized panel and some related utilities that enables users to work with Mustache and Wicket.
 * [wicket-jersey](https://github.com/OrienteerBAP/wicket-jersey) ⭐ 4 | 🐛 1 | 🌐 Java | 📅 2024-02-08 - Adapter to run JAR-RX resources on [Jersey2](https://jersey.github.io/) under Wicket.
@@ -120,7 +120,7 @@ Web Framework on top of wicket which allow you to build your system easily and s
 * [Orienteer](https://github.com/OrienteerDW/Orienteer) ⭐ 260 | 🐛 171 | 🌐 Java | 📅 2024-02-08 - Web framework on top of Wicket and [OrientDB](http://orientdb.com/) to build you own CRM, CMS, ERP, mobile app backend or just common site.
 * [Vuecket](https://github.com/OrienteerBAP/vuecket) ⭐ 34 | 🐛 4 | 🌐 Java | 📅 2021-08-15 - Web Framework which integrates VueJS and Wicket and most natural way for both of them
 * [Wicketopia](https://github.com/jwcarman/Wicketopia) ⭐ 18 | 🐛 1 | 🌐 Java | 📅 2017-03-25 - Rapid Application Development (RAD) library for the Wicket.
-* [Nocket](https://github.com/Nocket/nocket) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2019-10-16 - Naked Object based framework for wicket.
+* [Nocket](https://github.com/Nocket/nocket) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2019-10-16 - Naked Object based framework for wicket.
 * [Apache Isis](https://isis.apache.org/) - A framework for rapidly developing domain-driven apps in Java.
 * [BrixCMS](http://www.brixcms.org/) - Wicket based CMS (seems to be dead).
 * [Hippo CMS](http://www.onehippo.com/en) - Enables enterprises to continuously refine their online business strategy by responding quickly to content performance metrics.
@@ -130,7 +130,7 @@ Web Framework on top of wicket which allow you to build your system easily and s
 
 End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks)
 
-* [GeoServer](https://github.com/geoserver/geoserver) ⭐ 4,431 | 🐛 32 | 🌐 Java | 📅 2026-08-13 - Open source software server written in Java that allows users to share and edit geospatial data.
+* [GeoServer](https://github.com/geoserver/geoserver) ⭐ 4,431 | 🐛 36 | 🌐 Java | 📅 2026-08-14 - Open source software server written in Java that allows users to share and edit geospatial data.
 * [Orienteer](https://github.com/OrienteerDW/Orienteer) ⭐ 260 | 🐛 171 | 🌐 Java | 📅 2024-02-08 - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps.
 * [Estatio](https://github.com/estatio/estatio) ⚠️ Archived - Open source estate management built on Apache Isis and wicket.
 * [Yes Cart](https://github.com/inspire-software/yes-cart) ⭐ 113 | 🐛 15 | 🌐 Java | 📅 2026-05-07 - Pure e-Commerse platform.
@@ -150,4 +150,4 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
