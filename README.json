@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-02T09:33:17Z",
+            "last_commit": "2026-08-16T09:34:12Z",
             "owner": "martin-g",
             "repo": "wicket-bootstrap",
             "stars": 305
@@ -1011,7 +1011,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T17:01:13Z",
+            "last_commit": "2026-08-16T12:02:41Z",
             "owner": "wicketstuff",
             "repo": "wiquery",
             "stars": 8
@@ -1160,7 +1160,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:12:17.603Z",
+    "last_updated": "2026-08-16T19:11:01.435Z",
     "original_repository": "PhantomYdn/awesome-wicket",
     "original_repository_sha": "c084bb19e4cc8e33f5341d55deaa12c782d8fb5b",
     "enhanced_repository": "enhansome/enhansome-wicket",

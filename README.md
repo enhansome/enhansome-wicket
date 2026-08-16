@@ -20,7 +20,7 @@ Your contributions are always welcome!
 ## Generic Info
 
 * [Apache Wicket](http://wicket.apache.org/) - Wicket official site.
-* [Wicket on Github](https://github.com/apache/wicket) ⭐ 794 | 🐛 25 | 🌐 Java | 📅 2026-08-12 - Official mirror of Wicket on [GitHub](https://github.com).
+* [Wicket on Github](https://github.com/apache/wicket) ⭐ 794 | 🐛 25 | 🌐 Java | 📅 2026-08-16 - Official mirror of Wicket on [GitHub](https://github.com).
 * [Wicket on Twitter](https://twitter.com/apache_wicket) - Official account of Wicket.
 * [Wicket wiki](https://cwiki.apache.org/confluence/display/WICKET/Index) - Official knowledge base on Wiki about Wicket.
 * [Build With Wicket](https://builtwithwicket.tumblr.com/) - Official [Tumblr](https://www.tumblr.com/) account of Wicket.
@@ -32,7 +32,7 @@ Your contributions are always welcome!
 
 List of libraries and components which can be used in your application
 
-* [wicket-bootstrap](https://github.com/l0rdn1kk0n/wicket-bootstrap) ⭐ 305 | 🐛 30 | 🌐 Java | 📅 2026-08-02 - Integration of Bootstrap Toolkit for Wicket.
+* [wicket-bootstrap](https://github.com/l0rdn1kk0n/wicket-bootstrap) ⭐ 305 | 🐛 30 | 🌐 Java | 📅 2026-08-16 - Integration of Bootstrap Toolkit for Wicket.
 * [wicket-spring-boot](https://github.com/MarcGiffing/wicket-spring-boot) ⭐ 156 | 🐛 16 | 🌐 Java | 📅 2026-05-20 - Makes it easy to create Wicket projects with a minimum of configuration effort by using Sprint Boot.
 * [wicked-charts](https://github.com/thombergs/wicked-charts) ⭐ 94 | 🐛 31 | 🌐 JavaScript | 📅 2024-07-31 - Beautiful and interactive javascript charts for Java-based web applications.
 * [wicket-source](https://github.com/42Lines/wicket-source) ⭐ 36 | 🐛 9 | 🌐 Java | 📅 2020-10-12 - Speeds up Wicket development by providing click-through from browser HTML back to the original Wicket components in your source.
@@ -67,7 +67,7 @@ List of libraries and components which can be used in your application
 * [Console](https://github.com/wicketstuff/core/wiki/Console) ⭐ 351 | 🐛 65 | 🌐 Java | 📅 2026-08-10 - Provides support for executing code dynamically (at runtime).
 * [Context](https://github.com/wicketstuff/core/wiki/Context) ⭐ 351 | 🐛 65 | 🌐 Java | 📅 2026-08-10 - Used to locate components,models and models' objects declaratively with @Context annotation.
 * [Dashboard](https://github.com/wicketstuff/core/tree/master/dashboard-parent) ⭐ 351 | 🐛 65 | 🌐 Java | 📅 2026-08-10 - Support of dashboards for Wicket for quick access to required information in widgets.
-* [DataStores](https://github.com/wicketstuff/core/wiki/DataStores) ⭐ 351 | 🐛 65 | 🌐 Java | 📅 2026-08-10 - Collection of various implementation of [IDataStore](https://github.com/apache/wicket/blob/master/wicket-core/src/main/java/org/apache/wicket/pageStore/IDataStore.java) ⭐ 794 | 🐛 25 | 🌐 Java | 📅 2026-08-12: [MemCached](http://memcached.org/), [Apache Cassandra](http://cassandra.apache.org/), [Redis](http://redis.io/), [Hazelcast](http://www.hazelcast.com/).
+* [DataStores](https://github.com/wicketstuff/core/wiki/DataStores) ⭐ 351 | 🐛 65 | 🌐 Java | 📅 2026-08-10 - Collection of various implementation of [IDataStore](https://github.com/apache/wicket/blob/master/wicket-core/src/main/java/org/apache/wicket/pageStore/IDataStore.java) ⭐ 794 | 🐛 25 | 🌐 Java | 📅 2026-08-16: [MemCached](http://memcached.org/), [Apache Cassandra](http://cassandra.apache.org/), [Redis](http://redis.io/), [Hazelcast](http://www.hazelcast.com/).
 * [Datatable Autocomplete](https://github.com/wicketstuff/core/wiki/Datatable-Autocomplete) ⭐ 351 | 🐛 65 | 🌐 Java | 📅 2026-08-10 - Provides a search data structure known as a [Trie](http://en.wikipedia.org/wiki/Trie) that allows AJAX searches on large datasets fast.
 * [DataTables](https://github.com/wicketstuff/core/wiki/DataTables) ⭐ 351 | 🐛 65 | 🌐 Java | 📅 2026-08-10 - [DataTables jQuery](http://www.datatables.net/) Plugin Integration.
 * [Editable Grid](https://github.com/wicketstuff/core/wiki/Editable-Grid) ⭐ 351 | 🐛 65 | 🌐 Java | 📅 2026-08-10 - A grid component with add/edit/delete feature all at once, apart from supporting sorting/filtering/paging.
@@ -110,7 +110,7 @@ List of libraries and components which can be used in your application
 * [wicket-foundation](https://github.com/wicketstuff/core/tree/master/wicket-foundation) ⭐ 351 | 🐛 65 | 🌐 Java | 📅 2026-08-10 - Integrates Wicket and [Zurb Foundation](http://foundation.zurb.com/).
 * [Wicket Rest Annotations](https://github.com/wicketstuff/core/tree/master/wicketstuff-restannotations-parent) ⭐ 351 | 🐛 65 | 🌐 Java | 📅 2026-08-10 - Provides a special resource class and a set of annotations to implement REST API/services in much the same way as we do it with Spring MVC or with the standard JAX-RS.
 * [WHighCharts](https://github.com/wicketstuff/wiquery-highcharts) ⭐ 11 | 🐛 2 | 🌐 JavaScript | 📅 2018-05-18 - Provides WiQuery bindings for HighCharts.
-* [WiQuery](https://github.com/wicketstuff/wiquery) ⭐ 8 | 🐛 2 | 🌐 Java | 📅 2026-08-13 - Wicket integration with jQuery and jQuery UI.
+* [WiQuery](https://github.com/wicketstuff/wiquery) ⭐ 8 | 🐛 3 | 🌐 Java | 📅 2026-08-16 - Wicket integration with jQuery and jQuery UI.
 * [WqPlot](https://github.com/wicketstuff/wiquery-jqplot) ⭐ 8 | 🐛 3 | 🌐 JavaScript | 📅 2015-11-17 - Provides WiQuery bindings for JqPlot.
 
 ## Web Frameworks
@@ -130,7 +130,7 @@ Web Framework on top of wicket which allow you to build your system easily and s
 
 End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks)
 
-* [GeoServer](https://github.com/geoserver/geoserver) ⭐ 4,430 | 🐛 33 | 🌐 Java | 📅 2026-08-15 - Open source software server written in Java that allows users to share and edit geospatial data.
+* [GeoServer](https://github.com/geoserver/geoserver) ⭐ 4,430 | 🐛 32 | 🌐 Java | 📅 2026-08-15 - Open source software server written in Java that allows users to share and edit geospatial data.
 * [Orienteer](https://github.com/OrienteerDW/Orienteer) ⭐ 260 | 🐛 171 | 🌐 Java | 📅 2024-02-08 - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps.
 * [Estatio](https://github.com/estatio/estatio) ⚠️ Archived - Open source estate management built on Apache Isis and wicket.
 * [Yes Cart](https://github.com/inspire-software/yes-cart) ⭐ 113 | 🐛 15 | 🌐 Java | 📅 2026-05-07 - Pure e-Commerse platform.
@@ -150,4 +150,4 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
