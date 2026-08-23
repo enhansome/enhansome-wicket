@@ -12,7 +12,7 @@
             "archived": false,
             "id": 3431492,
             "language": "Java",
-            "last_commit": "2026-08-16T09:34:12Z",
+            "last_commit": "2026-08-23T09:34:30Z",
             "owner": "martin-g",
             "repo": "wicket-bootstrap",
             "stars": 305
@@ -1189,7 +1189,7 @@
             "last_commit": "2026-08-22T11:32:28Z",
             "owner": "geoserver",
             "repo": "geoserver",
-            "stars": 4439
+            "stars": 4440
           }
         },
         {
@@ -1242,7 +1242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:12:28.388Z",
+    "last_updated": "2026-08-23T19:12:30.018Z",
     "original_repository": "PhantomYdn/awesome-wicket",
     "original_repository_id": 50565200,
     "original_repository_sha": "c084bb19e4cc8e33f5341d55deaa12c782d8fb5b",
