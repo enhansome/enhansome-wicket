@@ -307,6 +307,21 @@
           "children": [
             {
               "node_type": "item",
+              "title": "WicketStuff",
+              "description": "based libraries",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1206855,
+                "language": "Java",
+                "last_commit": "2026-08-24T01:49:43Z",
+                "owner": "wicketstuff",
+                "repo": "core",
+                "stars": 351
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Annotation",
               "description": "Mount your pages declarativly by java annotations.",
               "children": [],
@@ -314,7 +329,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -329,7 +344,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -344,7 +359,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -359,7 +374,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -374,7 +389,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -389,7 +404,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -404,7 +419,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -419,7 +434,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -434,7 +449,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -449,7 +464,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -464,7 +479,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -479,7 +494,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -494,7 +509,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -509,7 +524,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -524,7 +539,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -539,7 +554,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -554,7 +569,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -569,7 +584,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -584,7 +599,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -599,7 +614,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -614,7 +629,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -629,7 +644,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -644,7 +659,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -659,7 +674,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -674,7 +689,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -689,7 +704,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -704,7 +719,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -719,7 +734,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -734,7 +749,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -749,7 +764,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -764,7 +779,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -779,7 +794,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -794,7 +809,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -809,7 +824,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -824,7 +839,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -839,7 +854,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -854,7 +869,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -869,7 +884,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -884,7 +899,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -899,7 +914,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -914,7 +929,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -929,7 +944,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -944,7 +959,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -959,7 +974,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -974,7 +989,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -989,7 +1004,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -1004,7 +1019,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -1019,7 +1034,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -1034,7 +1049,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -1049,7 +1064,7 @@
                 "archived": false,
                 "id": 1206855,
                 "language": "Java",
-                "last_commit": "2026-08-17T01:53:51Z",
+                "last_commit": "2026-08-24T01:49:43Z",
                 "owner": "wicketstuff",
                 "repo": "core",
                 "stars": 351
@@ -1101,7 +1116,7 @@
               }
             }
           ],
-          "description": "WicketStuff based libraries",
+          "description": null,
           "node_type": "group",
           "title": "WicketStuff"
         }
@@ -1186,10 +1201,10 @@
             "archived": false,
             "id": 2751199,
             "language": "Java",
-            "last_commit": "2026-08-22T11:32:28Z",
+            "last_commit": "2026-08-24T11:21:48Z",
             "owner": "geoserver",
             "repo": "geoserver",
-            "stars": 4440
+            "stars": 4441
           }
         },
         {
@@ -1242,7 +1257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:12:30.018Z",
+    "last_updated": "2026-08-24T14:42:14.313Z",
     "original_repository": "PhantomYdn/awesome-wicket",
     "original_repository_id": 50565200,
     "original_repository_sha": "c084bb19e4cc8e33f5341d55deaa12c782d8fb5b",
