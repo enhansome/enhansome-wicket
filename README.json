@@ -1201,7 +1201,7 @@
             "archived": false,
             "id": 2751199,
             "language": "Java",
-            "last_commit": "2026-08-25T03:12:56Z",
+            "last_commit": "2026-08-25T19:07:09Z",
             "owner": "geoserver",
             "repo": "geoserver",
             "stars": 4442
@@ -1257,7 +1257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:33:26.414Z",
+    "last_updated": "2026-08-25T19:20:12.086Z",
     "original_repository": "PhantomYdn/awesome-wicket",
     "original_repository_id": 50565200,
     "original_repository_sha": "c084bb19e4cc8e33f5341d55deaa12c782d8fb5b",
