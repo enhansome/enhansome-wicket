@@ -34,7 +34,7 @@ List of libraries and components which can be used in your application
 
 * [wicket-bootstrap](https://github.com/l0rdn1kk0n/wicket-bootstrap) ⭐ 305 | 🐛 30 | 🌐 Java | 📅 2026-08-23 - Integration of Bootstrap Toolkit for Wicket.
 * [wicket-spring-boot](https://github.com/MarcGiffing/wicket-spring-boot) ⭐ 156 | 🐛 16 | 🌐 Java | 📅 2026-05-20 - Makes it easy to create Wicket projects with a minimum of configuration effort by using Sprint Boot.
-* [wicked-charts](https://github.com/thombergs/wicked-charts) ⭐ 94 | 🐛 31 | 🌐 JavaScript | 📅 2024-07-31 - Beautiful and interactive javascript charts for Java-based web applications.
+* [wicked-charts](https://github.com/thombergs/wicked-charts) ⭐ 95 | 🐛 31 | 🌐 JavaScript | 📅 2024-07-31 - Beautiful and interactive javascript charts for Java-based web applications.
 * [wicket-source](https://github.com/42Lines/wicket-source) ⭐ 36 | 🐛 9 | 🌐 Java | 📅 2020-10-12 - Speeds up Wicket development by providing click-through from browser HTML back to the original Wicket components in your source.
 * [wicket-webjars](https://github.com/l0rdn1kk0n/wicket-webjars) ⭐ 35 | 🐛 9 | 🌐 Java | 📅 2026-04-10 - Integration of webjars for Wicket.
 * [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) ⭐ 34 | 🐛 12 | 🌐 Java | 📅 2024-02-06 - Integration of Wicket with [OrientDB](http://orientdb.com/).
@@ -130,7 +130,7 @@ Web Framework on top of wicket which allow you to build your system easily and s
 
 End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks)
 
-* [GeoServer](https://github.com/geoserver/geoserver) ⭐ 4,442 | 🐛 42 | 🌐 Java | 📅 2026-08-26 - Open source software server written in Java that allows users to share and edit geospatial data.
+* [GeoServer](https://github.com/geoserver/geoserver) ⭐ 4,443 | 🐛 37 | 🌐 Java | 📅 2026-08-27 - Open source software server written in Java that allows users to share and edit geospatial data.
 * [Orienteer](https://github.com/OrienteerDW/Orienteer) ⭐ 260 | 🐛 171 | 🌐 Java | 📅 2024-02-08 - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps.
 * [Estatio](https://github.com/estatio/estatio) ⚠️ Archived - Open source estate management built on Apache Isis and wicket.
 * [Yes Cart](https://github.com/inspire-software/yes-cart) ⭐ 113 | 🐛 15 | 🌐 Java | 📅 2026-08-18 - Pure e-Commerse platform.
@@ -150,4 +150,4 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
