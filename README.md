@@ -130,7 +130,7 @@ Web Framework on top of wicket which allow you to build your system easily and s
 
 End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks)
 
-* [GeoServer](https://github.com/geoserver/geoserver) ⭐ 4,444 | 🐛 36 | 🌐 Java | 📅 2026-08-28 - Open source software server written in Java that allows users to share and edit geospatial data.
+* [GeoServer](https://github.com/geoserver/geoserver) ⭐ 4,444 | 🐛 35 | 🌐 Java | 📅 2026-08-29 - Open source software server written in Java that allows users to share and edit geospatial data.
 * [Orienteer](https://github.com/OrienteerDW/Orienteer) ⭐ 260 | 🐛 171 | 🌐 Java | 📅 2024-02-08 - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps.
 * [Estatio](https://github.com/estatio/estatio) ⚠️ Archived - Open source estate management built on Apache Isis and wicket.
 * [Yes Cart](https://github.com/inspire-software/yes-cart) ⭐ 113 | 🐛 15 | 🌐 Java | 📅 2026-08-18 - Pure e-Commerse platform.

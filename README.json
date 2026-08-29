@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Wicket components for Twitter Bootstrap - Wicket-Bootstrap is based on Twitter's toolkit (bootstrap) and the Apache Wicket Framework.",
+            "homepage": "https://wicketbootstrap.teliclab.info/",
             "id": 3431492,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-08-23T09:34:30Z",
+            "open_issues": 30,
             "owner": "martin-g",
             "repo": "wicket-bootstrap",
-            "stars": 305
+            "stars": 305,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -26,12 +31,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spring Boot starter for Apache Wicket",
+            "homepage": null,
             "id": 46081320,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-05-20T18:45:25Z",
+            "open_issues": 16,
             "owner": "MarcGiffing",
             "repo": "wicket-spring-boot",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "java",
+              "spring",
+              "spring-boot",
+              "spring-boot-starter",
+              "wicket"
+            ]
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -42,12 +58,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beautiful and interactive javascript charts for Java-based web applications.",
+            "homepage": null,
             "id": 14660160,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-31T08:51:04Z",
+            "open_issues": 31,
             "owner": "adessoSE",
             "repo": "wicked-charts",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "charts",
+              "css",
+              "html",
+              "java",
+              "javascript",
+              "wicked-charts"
+            ]
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -58,12 +86,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 2637641,
             "language": "Java",
+            "license": null,
             "last_commit": "2020-10-12T18:09:50Z",
+            "open_issues": 9,
             "owner": "42Lines",
             "repo": "wicket-source",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -74,12 +107,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "webjars integration for Apache Wicket",
+            "homepage": null,
             "id": 7473680,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-04-10T23:46:54Z",
+            "open_issues": 9,
             "owner": "martin-g",
             "repo": "wicket-webjars",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -90,12 +128,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Everything you need to work with Apache Wicket and OrientDB",
+            "homepage": null,
             "id": 20922747,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-06T05:00:55Z",
+            "open_issues": 12,
             "owner": "OrienteerBAP",
             "repo": "wicket-orientdb",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "java",
+              "orientdb",
+              "orienteer",
+              "wicket"
+            ]
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -106,12 +154,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native Java API to work with JavaScript Node Package Manager (NPM): query, retrieve, pack into jar (webjars), CDN, maven",
+            "homepage": null,
             "id": 262714137,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-16T07:58:17Z",
+            "open_issues": 2,
             "owner": "OrienteerBAP",
             "repo": "JNPM",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "artifact",
+              "frontend",
+              "java",
+              "maven",
+              "maven-plugin",
+              "npm",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -122,12 +183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Wicket component leveraging the use of Shield UI JavaScript library",
+            "homepage": null,
             "id": 10465009,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-12T21:01:29Z",
+            "open_issues": 2,
             "owner": "shieldui",
             "repo": "wicket-shieldui",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -138,12 +204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integration of FullCalendar javascript lib with Wicket",
+            "homepage": null,
             "id": 1606730,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2020-09-02T00:02:22Z",
+            "open_issues": 5,
             "owner": "42Lines",
             "repo": "wicket-fullcalendar",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -154,12 +225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wicket drag-and-drop",
+            "homepage": null,
             "id": 7071450,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-06-13T23:14:46Z",
+            "open_issues": 10,
             "owner": "svenmeier",
             "repo": "wicket-dnd",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -170,12 +246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "wicket-jquery-selectors",
+            "homepage": null,
             "id": 12748697,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-22T15:42:32Z",
+            "open_issues": 7,
             "owner": "martin-g",
             "repo": "wicket-jquery-selectors",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -186,12 +267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "wicket-clientside-logging is a helper library that allows javascript logging on client side that stores messages on server side too.",
+            "homepage": null,
             "id": 11479356,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-03-02T17:41:09Z",
+            "open_issues": 0,
             "owner": "l0rdn1kk0n",
             "repo": "wicket-clientside-logging",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -202,12 +288,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "wicket-crudifier is a library to easily create CRUD's with wicket",
+            "homepage": null,
             "id": 23392431,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-28T19:22:42Z",
+            "open_issues": 13,
             "owner": "premium-minds",
             "repo": "wicket-crudifier",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "crud",
+              "java",
+              "wicket"
+            ]
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -218,12 +313,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Annotation based auto wiring of wicket components.",
+            "homepage": null,
             "id": 13310939,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2016-01-14T14:11:24Z",
+            "open_issues": 0,
             "owner": "wicket-acc",
             "repo": "wicket-autowire",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -234,12 +334,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web Console for Apache Wicket",
+            "homepage": null,
             "id": 19365464,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-10T02:17:56Z",
+            "open_issues": 1,
             "owner": "PhantomYdn",
             "repo": "wicket-console",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "apache-wicket",
+              "console",
+              "developer-tools",
+              "java",
+              "wicket"
+            ]
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -250,12 +361,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some helper to use requirejs with Apache Wicket.",
+            "homepage": null,
             "id": 9477032,
             "language": "Java",
+            "license": null,
             "last_commit": "2018-03-02T17:41:18Z",
+            "open_issues": 0,
             "owner": "l0rdn1kk0n",
             "repo": "wicket-requirejs",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -266,12 +382,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides some specialized panels and some related utilities that enables users to work with Mustache and Apache Wicket.",
+            "homepage": null,
             "id": 7471980,
             "language": "Java",
+            "license": null,
             "last_commit": "2018-03-02T17:41:15Z",
+            "open_issues": 0,
             "owner": "l0rdn1kk0n",
             "repo": "wicket-mustache",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -282,12 +403,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adapter for Apache Wicket to support JAX-RS through embedding Jersey",
+            "homepage": null,
             "id": 160314598,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-02-08T10:26:09Z",
+            "open_issues": 1,
             "owner": "OrienteerBAP",
             "repo": "wicket-jersey",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "jax-rs",
+              "jax-rs-jersey",
+              "jersey",
+              "jersey2",
+              "rest",
+              "wicket"
+            ]
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -298,12 +431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Akka support for Apache Wicket",
+            "homepage": null,
             "id": 16175874,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-03-02T17:40:56Z",
+            "open_issues": 0,
             "owner": "l0rdn1kk0n",
             "repo": "wicket-akka",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -314,12 +452,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Smart Integration of Wicket with ExtJS with event handling and a focus on making the Java-API as close to the JS-API as possible.",
+            "homepage": null,
             "id": 35663310,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2017-05-05T15:10:59Z",
+            "open_issues": 0,
             "owner": "onehippo",
             "repo": "wicket-extjs-integration",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -332,12 +475,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -348,12 +502,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -364,12 +529,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -380,12 +556,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -396,12 +583,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -412,12 +610,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -428,12 +637,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -444,12 +664,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -460,12 +691,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -476,12 +718,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -492,12 +745,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -508,12 +772,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -524,12 +799,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -540,12 +826,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -556,12 +853,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -572,12 +880,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -588,12 +907,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -604,12 +934,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -620,12 +961,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -636,12 +988,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -652,12 +1015,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -668,12 +1042,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -684,12 +1069,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -700,12 +1096,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -716,12 +1123,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -732,12 +1150,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -748,12 +1177,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -764,12 +1204,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -780,12 +1231,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -796,12 +1258,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -812,12 +1285,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -828,12 +1312,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -844,12 +1339,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -860,12 +1366,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -876,12 +1393,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -892,12 +1420,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -908,12 +1447,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -924,12 +1474,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -940,12 +1501,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -956,12 +1528,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -972,12 +1555,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -988,12 +1582,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -1004,12 +1609,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -1020,12 +1636,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -1036,12 +1663,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -1052,12 +1690,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -1068,12 +1717,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -1084,12 +1744,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -1100,12 +1771,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -1116,12 +1798,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -1132,12 +1825,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicketstuff-core projects are bundled user contributions for use with Apache Wicket (https://wicket.apache.org/).   They are released in step with Wicket releases to make them easy to use.",
+                "homepage": null,
                 "id": 1206855,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-08-24T01:49:43Z",
+                "open_issues": 66,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351
+                "stars": 351,
+                "topics": [
+                  "apache-wicket",
+                  "integrations",
+                  "java",
+                  "wicket",
+                  "wicketstuff"
+                ]
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -1148,12 +1852,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wiquery - highcharts binding component",
+                "homepage": null,
                 "id": 1650389,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-05-18T11:42:47Z",
+                "open_issues": 2,
                 "owner": "wicketstuff",
                 "repo": "wiquery-highcharts",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -1164,12 +1873,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wicket integration with jQuery and jQuery UI",
+                "homepage": "http://code.google.com/p/wiquery/",
                 "id": 45185128,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-16T12:02:41Z",
+                "open_issues": 3,
                 "owner": "wicketstuff",
                 "repo": "wiquery",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             },
@@ -1180,12 +1894,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wiquery - jqPlot binding component",
+                "homepage": null,
                 "id": 1105792,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-11-17T15:19:31Z",
+                "open_issues": 3,
                 "owner": "wicketstuff",
                 "repo": "wiquery-jqplot",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:55.173Z"
             }
@@ -1207,12 +1926,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Business Application Platform - no-code/low-code platform to build business applications",
+            "homepage": "http://orienteer.org",
             "id": 20936653,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-08T11:34:02Z",
+            "open_issues": 171,
             "owner": "OrienteerBAP",
             "repo": "Orienteer",
-            "stars": 260
+            "stars": 260,
+            "topics": [
+              "baas",
+              "bap",
+              "bpmn",
+              "business",
+              "crm",
+              "java",
+              "low-code",
+              "no-code-framework",
+              "nocode",
+              "orientdb",
+              "orienteer"
+            ]
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -1223,12 +1959,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Power of Vue.JS married with magic of Apache Wicket",
+            "homepage": null,
             "id": 284204319,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-15T03:34:38Z",
+            "open_issues": 4,
             "owner": "OrienteerBAP",
             "repo": "vuecket",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "java",
+              "vue",
+              "vuejs",
+              "web-framework",
+              "webfr",
+              "wicket"
+            ]
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -1239,12 +1987,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 2851858,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-03-25T14:38:17Z",
+            "open_issues": 1,
             "owner": "jwcarman",
             "repo": "Wicketopia",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -1255,12 +2008,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Naked Object based framework for wicket",
+            "homepage": null,
             "id": 23465668,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2019-10-16T14:53:19Z",
+            "open_issues": 0,
             "owner": "Nocket",
             "repo": "nocket",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         }
@@ -1277,12 +2035,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official GeoServer repository",
+            "homepage": "http://geoserver.org/",
             "id": 2751199,
             "language": "Java",
-            "last_commit": "2026-08-28T17:52:47Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:51:43Z",
+            "open_issues": 35,
             "owner": "geoserver",
             "repo": "geoserver",
-            "stars": 4444
+            "stars": 4444,
+            "topics": [
+              "geoserver",
+              "java",
+              "mapping",
+              "maps",
+              "wcs",
+              "web",
+              "web-mapping",
+              "wfs",
+              "wms",
+              "wps"
+            ]
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -1293,12 +2067,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Business Application Platform - no-code/low-code platform to build business applications",
+            "homepage": "http://orienteer.org",
             "id": 20936653,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-08T11:34:02Z",
+            "open_issues": 171,
             "owner": "OrienteerBAP",
             "repo": "Orienteer",
-            "stars": 260
+            "stars": 260,
+            "topics": [
+              "baas",
+              "bap",
+              "bpmn",
+              "business",
+              "crm",
+              "java",
+              "low-code",
+              "no-code-framework",
+              "nocode",
+              "orientdb",
+              "orienteer"
+            ]
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -1309,12 +2100,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Estatio Open Source Estate Management built on Apache Isis",
+            "homepage": null,
             "id": 11128472,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-17T12:25:51Z",
+            "open_issues": 8,
             "owner": "estatio",
             "repo": "estatio",
-            "stars": 203
+            "stars": 203,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         },
@@ -1325,12 +2121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YesCart - pure eCommerce",
+            "homepage": "http://www.yes-cart.org",
             "id": 39092083,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T11:09:09Z",
+            "open_issues": 15,
             "owner": "inspire-software",
             "repo": "yes-cart",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
         }
@@ -1339,15 +2140,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:55:55.173Z",
+    "last_updated": "2026-08-29T04:58:12.749Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome projects powered by Apache Wicket ",
+      "homepage": null,
       "id": 50565200,
       "language": null,
+      "license": null,
       "last_commit": "2020-08-16T21:31:00Z",
+      "open_issues": 0,
       "owner": "PhantomYdn",
       "repo": "awesome-wicket",
-      "stars": 91
+      "stars": 91,
+      "topics": [
+        "apache",
+        "apache-wicket",
+        "awesome",
+        "awesome-list",
+        "java",
+        "webframework",
+        "wicket"
+      ]
     },
     "original_repository_sha": "c084bb19e4cc8e33f5341d55deaa12c782d8fb5b",
     "enhanced_repository": "enhansome/enhansome-wicket",
