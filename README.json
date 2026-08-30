@@ -15,7 +15,7 @@
             "id": 3431492,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-08-23T09:34:30Z",
+            "last_commit": "2026-08-30T09:32:21Z",
             "open_issues": 30,
             "owner": "martin-g",
             "repo": "wicket-bootstrap",
@@ -1878,8 +1878,8 @@
                 "id": 45185128,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-08-16T12:02:41Z",
-                "open_issues": 3,
+                "last_commit": "2026-08-30T12:02:25Z",
+                "open_issues": 5,
                 "owner": "wicketstuff",
                 "repo": "wiquery",
                 "stars": 8,
@@ -2040,11 +2040,11 @@
             "id": 2751199,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T11:03:54Z",
+            "last_commit": "2026-08-30T04:17:47Z",
             "open_issues": 34,
             "owner": "geoserver",
             "repo": "geoserver",
-            "stars": 4444,
+            "stars": 4445,
             "topics": [
               "geoserver",
               "java",
@@ -2140,7 +2140,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:20:48.574Z",
+    "last_updated": "2026-08-30T21:40:01.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects powered by Apache Wicket ",
