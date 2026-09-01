@@ -20,7 +20,7 @@ Your contributions are always welcome!
 ## Generic Info
 
 * [Apache Wicket](http://wicket.apache.org/) - Wicket official site.
-* [Wicket on Github](https://github.com/apache/wicket) ⭐ 796 | 🐛 26 | 🌐 Java | 📅 2026-08-31 - Official mirror of Wicket on [GitHub](https://github.com).
+* [Wicket on Github](https://github.com/apache/wicket) ⭐ 796 | 🐛 26 | 🌐 Java | 📅 2026-09-01 - Official mirror of Wicket on [GitHub](https://github.com).
 * [Wicket on Twitter](https://twitter.com/apache_wicket) - Official account of Wicket.
 * [Wicket wiki](https://cwiki.apache.org/confluence/display/WICKET/Index) - Official knowledge base on Wiki about Wicket.
 * [Build With Wicket](https://builtwithwicket.tumblr.com/) - Official [Tumblr](https://www.tumblr.com/) account of Wicket.
@@ -42,9 +42,9 @@ List of libraries and components which can be used in your application
 * [wicket-shieldui](https://github.com/shieldui/wicket-shieldui) ⭐ 25 | 🐛 2 | 🌐 Java | 📅 2024-07-12 - Components leveraging the use of the [Shield UI](http://www.shieldui.com/) JavaScript library.
 * [wicket-fullcalendar](https://github.com/42Lines/wicket-fullcalendar) ⭐ 23 | 🐛 5 | 🌐 JavaScript | 📅 2020-09-02 - Integration of [FullCalendar](http://fullcalendar.io/) javascript lib with Wicket.
 * [wicket-dnd](https://github.com/svenmeier/wicket-dnd) ⭐ 19 | 🐛 10 | 🌐 Java | 📅 2023-06-13 - Generic Drag\&Drop framework for Wicket.
-* [wicket-jquery-selectors](https://github.com/l0rdn1kk0n/wicket-jquery-selectors) ⭐ 16 | 🐛 7 | 🌐 Java | 📅 2026-02-22 - Library for working with JQuery and Wicket.
+* [wicket-jquery-selectors](https://github.com/l0rdn1kk0n/wicket-jquery-selectors) ⭐ 16 | 🐛 6 | 🌐 Java | 📅 2026-09-01 - Library for working with JQuery and Wicket.
 * [wicket-clientside-logging](https://github.com/l0rdn1kk0n/wicket-clientside-logging) ⭐ 15 | 🐛 0 | 🌐 Java | 📅 2018-03-02 - Helper library that allows javascript logging on client side, all log messages will be stored on server side too.
-* [wicket-crudifier](https://github.com/premium-minds/wicket-crudifier) ⭐ 12 | 🐛 13 | 🌐 Java | 📅 2026-07-28 - Library to easily create CRUD's with wicket.
+* [wicket-crudifier](https://github.com/premium-minds/wicket-crudifier) ⭐ 12 | 🐛 14 | 🌐 Java | 📅 2026-08-31 - Library to easily create CRUD's with wicket.
 * [wicket-autowire](https://github.com/wicket-acc/wicket-autowire) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2016-01-14 - Makes your life easier by automatic creation of component according to provided annotation.
 * [wicket-console](https://github.com/PhantomYdn/wicket-console) ⭐ 8 | 🐛 1 | 🌐 Java | 📅 2020-10-10 - Lightweight AJAX-enabled web console for runtime execution JS scripts on server side.
 * [wicket-requirejs](https://github.com/l0rdn1kk0n/wicket-requirejs) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2018-03-02 - Helper to use require.js in your Wicket application.
@@ -57,58 +57,58 @@ List of libraries and components which can be used in your application
 
 ### WicketStuff
 
-[WicketStuff](https://github.com/wicketstuff/core) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 based libraries
+[WicketStuff](https://github.com/wicketstuff/core) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 based libraries
 
-* [Annotation](https://github.com/wicketstuff/core/wiki/Annotation) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Mount your pages declarativly by java annotations.
-* [Annotation Event Dispatcher](https://github.com/wicketstuff/core/tree/master/annotationeventdispatcher-parent) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Improves events handling in Wicket by annotations.
-* [Async Tasks](https://github.com/wicketstuff/core/wiki/Async-tasks) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 -  Control a background process within a Wicket application.
-* [Autocomplete TagIt](https://github.com/wicketstuff/core/wiki/Autocomplete-TagIt) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - [TagIt](http://aehlke.github.com/tag-it/) integration with Wicket.
-* [BrowserId](https://github.com/wicketstuff/core/wiki/BrowserId) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - [Mozilla Persona](https://login.persona.org/) integration with Wicket.
-* [Console](https://github.com/wicketstuff/core/wiki/Console) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Provides support for executing code dynamically (at runtime).
-* [Context](https://github.com/wicketstuff/core/wiki/Context) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Used to locate components,models and models' objects declaratively with @Context annotation.
-* [Dashboard](https://github.com/wicketstuff/core/tree/master/dashboard-parent) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Support of dashboards for Wicket for quick access to required information in widgets.
-* [DataStores](https://github.com/wicketstuff/core/wiki/DataStores) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Collection of various implementation of [IDataStore](https://github.com/apache/wicket/blob/master/wicket-core/src/main/java/org/apache/wicket/pageStore/IDataStore.java) ⭐ 796 | 🐛 26 | 🌐 Java | 📅 2026-08-31: [MemCached](http://memcached.org/), [Apache Cassandra](http://cassandra.apache.org/), [Redis](http://redis.io/), [Hazelcast](http://www.hazelcast.com/).
-* [Datatable Autocomplete](https://github.com/wicketstuff/core/wiki/Datatable-Autocomplete) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Provides a search data structure known as a [Trie](http://en.wikipedia.org/wiki/Trie) that allows AJAX searches on large datasets fast.
-* [DataTables](https://github.com/wicketstuff/core/wiki/DataTables) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - [DataTables jQuery](http://www.datatables.net/) Plugin Integration.
-* [Editable Grid](https://github.com/wicketstuff/core/wiki/Editable-Grid) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - A grid component with add/edit/delete feature all at once, apart from supporting sorting/filtering/paging.
-* [Eidogo](https://github.com/wicketstuff/core/wiki/Eidogo) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - SGF viewer and editor for GO game (also called baduk, igo or weiqi).
-* [Facebook](https://github.com/wicketstuff/core/wiki/Facebook) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Contains wicket components and behaviors to use the [Facebook](https://facebook.com) social plugins with wicket.
-* [Fast Serializer](https://github.com/wicketstuff/core/wiki/FastSerializer) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Wicket Serializer using the Fast 1.x (FST) library.
-* [Fast Serializer 2](https://github.com/wicketstuff/core/wiki/FastSerializer2) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Wicket Serializer using the Fast 2.x (FST) library.
-* [GMap3](https://github.com/wicketstuff/core/wiki/Gmap3) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Offers a component to use Google Maps v3 within Wicket applications.
-* [Google AppEngine Initializer](https://github.com/wicketstuff/core/wiki/Google-AppEngine-Initializer) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Provides Wicket's org.apache.wicket.IInitializer implementation that auto-configures the Wicket Application to be runable at Google AppEngine.
-* [Google Charts](https://github.com/wicketstuff/core/wiki/GoogleCharts) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Allows creation of charts using the [Google Chart API](https://developers.google.com/chart/).
-* [HTML5](https://github.com/wicketstuff/core/wiki/Html5) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Contains classes that give wicket support for using exciting new Html5 features.
-* [HTML Compressor](https://github.com/wicketstuff/core/wiki/Htmlcompressor) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Integration library for Wicket and [htmlcompressor](http://code.google.com/p/htmlcompressor).
-* [InMethodGrid](https://github.com/wicketstuff/core/wiki/InMethodGrid) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Data grid component.
-* [Java EE Inject](https://github.com/wicketstuff/core/wiki/Java-EE-Inject) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Provides integration through Java EE 5 resource injection.
-* [JEE Web Integration](https://github.com/wicketstuff/core/wiki/JEE-Web-Integration) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Embed Servlet, JSP abd JSF content into wicked HTML pages.
-* [JqPlot Plugin Integration](https://github.com/wicketstuff/core/wiki/JqPlot-Plugin-Integration) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Produces beautiful line, bar and pie charts with many features.
-* [JWicket UI Toolip](https://github.com/wicketstuff/core/wiki/jWicket-UI-Tooltip) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Generate the JavaScript needed to provide a Wicket Component with a jQuery UI tooltip.
-* [Kryo Serializer](https://github.com/wicketstuff/core/wiki/Kryo-Serializer) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - An implementation of org.apache.wicket.serialize.ISerializer for Wicket.
-* [Kryo2 Serializer](https://github.com/wicketstuff/core/tree/master/serializer-kryo2) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - An implementation of org.apache.wicket.serialize.ISerializer for Wicket.
-* [LazyModel](https://github.com/wicketstuff/core/wiki/LazyModel) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Type-safe model implementation.
-* [Lightbox2 Plugin Integration](https://github.com/wicketstuff/core/wiki/Lightbox2-Plugin-Integration) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Simple, unobtrusive script used to overlay images on top of the current page.
-* [Logback](https://github.com/wicketstuff/core/wiki/Logback) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - The home for classes that can help with using wicket and [logback](http://logback.qos.ch/) together.
-* [MBeanView](https://github.com/wicketstuff/core/wiki/MBeanView) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - JMX panel, to view and operate the applications mbeans.
-* [Minis](https://github.com/wicketstuff/core/wiki/Minis) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Collection of assorted components and behaviors that are too small to warrant their own project.
-* [ModalX](https://github.com/wicketstuff/core/wiki/ModalX) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - A lightweight extension to Wicket's ModalWindow capabilities that comes with standardized MessageBox class and allows easy definition of Modal dialog box classes.
-* [OSGI](https://github.com/wicketstuff/core/wiki/Osgi) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Lets you use Wicket in OSGi environments.
-* [Open Layers 3](https://github.com/wicketstuff/core/tree/master/openlayers3-parent) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Provides a set of components that may be used to add interactive maps to a Wicket application.
-* [POI](https://github.com/wicketstuff/core/wiki/POI) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Integrates Wicket projects to Apache POI.
-* [Progressbar](https://github.com/wicketstuff/core/wiki/Progressbar) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Provides a progress bar component for Wicket.
-* [Push](https://github.com/wicketstuff/core/wiki/Push) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Provides support for Reverse AJAX in Wicket applications and allows them to "push" partial Web page updates to the Web browser.
-* [Scala Extensions](https://github.com/wicketstuff/core/wiki/ScalaExtensions) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Improves the syntax of Wicket models when using the Scala programming language.
-* [Select2](https://github.com/wicketstuff/core/tree/master/select2-parent) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Provides Apache Wicket components that leverage [Select2](http://ivaynberg.github.com/select2) JavaScript library to build select boxes that provide Ajax choice filtering, custom rendering and etc.
-* [Servlet Container Authentication and Authorization](https://github.com/wicketstuff/core/wiki/Servlet-Container-Authentication-and-Authorization) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Simplify the integration of wicket-auth-roles with the servlet 3 security container.
-* [Spring Reference](https://github.com/wicketstuff/core/wiki/SpringReference) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Can be used to integrate a wicket web application with spring.
-* [Stateless](https://github.com/wicketstuff/core/tree/master/stateless-parent) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Adds a few components that provide more comprehensive stateless features for Wicket.
-* [TinyMCE Integration](https://github.com/wicketstuff/core/wiki/TinyMCE-Integration) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Integration of the well-known TinyMCE WYSIWYG editor in Wicket.
-* [Twitter](https://github.com/wicketstuff/core/wiki/Twitter) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Contains wicket components and behaviors to use the Twitter widgets with wicket.
-* [UrlFragment](https://github.com/wicketstuff/core/tree/master/urlfragment-parent) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - With this you can build bookmarkable AJAX features and still support the back button.
-* [Whiteboard](https://github.com/wicketstuff/core/wiki/Whiteboard) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Provides a Whiteboard which can be integrated in any wicket application.
-* [wicket-foundation](https://github.com/wicketstuff/core/tree/master/wicket-foundation) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Integrates Wicket and [Zurb Foundation](http://foundation.zurb.com/).
-* [Wicket Rest Annotations](https://github.com/wicketstuff/core/tree/master/wicketstuff-restannotations-parent) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-08-31 - Provides a special resource class and a set of annotations to implement REST API/services in much the same way as we do it with Spring MVC or with the standard JAX-RS.
+* [Annotation](https://github.com/wicketstuff/core/wiki/Annotation) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Mount your pages declarativly by java annotations.
+* [Annotation Event Dispatcher](https://github.com/wicketstuff/core/tree/master/annotationeventdispatcher-parent) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Improves events handling in Wicket by annotations.
+* [Async Tasks](https://github.com/wicketstuff/core/wiki/Async-tasks) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 -  Control a background process within a Wicket application.
+* [Autocomplete TagIt](https://github.com/wicketstuff/core/wiki/Autocomplete-TagIt) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - [TagIt](http://aehlke.github.com/tag-it/) integration with Wicket.
+* [BrowserId](https://github.com/wicketstuff/core/wiki/BrowserId) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - [Mozilla Persona](https://login.persona.org/) integration with Wicket.
+* [Console](https://github.com/wicketstuff/core/wiki/Console) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Provides support for executing code dynamically (at runtime).
+* [Context](https://github.com/wicketstuff/core/wiki/Context) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Used to locate components,models and models' objects declaratively with @Context annotation.
+* [Dashboard](https://github.com/wicketstuff/core/tree/master/dashboard-parent) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Support of dashboards for Wicket for quick access to required information in widgets.
+* [DataStores](https://github.com/wicketstuff/core/wiki/DataStores) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Collection of various implementation of [IDataStore](https://github.com/apache/wicket/blob/master/wicket-core/src/main/java/org/apache/wicket/pageStore/IDataStore.java) ⭐ 796 | 🐛 26 | 🌐 Java | 📅 2026-09-01: [MemCached](http://memcached.org/), [Apache Cassandra](http://cassandra.apache.org/), [Redis](http://redis.io/), [Hazelcast](http://www.hazelcast.com/).
+* [Datatable Autocomplete](https://github.com/wicketstuff/core/wiki/Datatable-Autocomplete) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Provides a search data structure known as a [Trie](http://en.wikipedia.org/wiki/Trie) that allows AJAX searches on large datasets fast.
+* [DataTables](https://github.com/wicketstuff/core/wiki/DataTables) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - [DataTables jQuery](http://www.datatables.net/) Plugin Integration.
+* [Editable Grid](https://github.com/wicketstuff/core/wiki/Editable-Grid) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - A grid component with add/edit/delete feature all at once, apart from supporting sorting/filtering/paging.
+* [Eidogo](https://github.com/wicketstuff/core/wiki/Eidogo) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - SGF viewer and editor for GO game (also called baduk, igo or weiqi).
+* [Facebook](https://github.com/wicketstuff/core/wiki/Facebook) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Contains wicket components and behaviors to use the [Facebook](https://facebook.com) social plugins with wicket.
+* [Fast Serializer](https://github.com/wicketstuff/core/wiki/FastSerializer) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Wicket Serializer using the Fast 1.x (FST) library.
+* [Fast Serializer 2](https://github.com/wicketstuff/core/wiki/FastSerializer2) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Wicket Serializer using the Fast 2.x (FST) library.
+* [GMap3](https://github.com/wicketstuff/core/wiki/Gmap3) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Offers a component to use Google Maps v3 within Wicket applications.
+* [Google AppEngine Initializer](https://github.com/wicketstuff/core/wiki/Google-AppEngine-Initializer) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Provides Wicket's org.apache.wicket.IInitializer implementation that auto-configures the Wicket Application to be runable at Google AppEngine.
+* [Google Charts](https://github.com/wicketstuff/core/wiki/GoogleCharts) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Allows creation of charts using the [Google Chart API](https://developers.google.com/chart/).
+* [HTML5](https://github.com/wicketstuff/core/wiki/Html5) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Contains classes that give wicket support for using exciting new Html5 features.
+* [HTML Compressor](https://github.com/wicketstuff/core/wiki/Htmlcompressor) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Integration library for Wicket and [htmlcompressor](http://code.google.com/p/htmlcompressor).
+* [InMethodGrid](https://github.com/wicketstuff/core/wiki/InMethodGrid) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Data grid component.
+* [Java EE Inject](https://github.com/wicketstuff/core/wiki/Java-EE-Inject) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Provides integration through Java EE 5 resource injection.
+* [JEE Web Integration](https://github.com/wicketstuff/core/wiki/JEE-Web-Integration) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Embed Servlet, JSP abd JSF content into wicked HTML pages.
+* [JqPlot Plugin Integration](https://github.com/wicketstuff/core/wiki/JqPlot-Plugin-Integration) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Produces beautiful line, bar and pie charts with many features.
+* [JWicket UI Toolip](https://github.com/wicketstuff/core/wiki/jWicket-UI-Tooltip) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Generate the JavaScript needed to provide a Wicket Component with a jQuery UI tooltip.
+* [Kryo Serializer](https://github.com/wicketstuff/core/wiki/Kryo-Serializer) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - An implementation of org.apache.wicket.serialize.ISerializer for Wicket.
+* [Kryo2 Serializer](https://github.com/wicketstuff/core/tree/master/serializer-kryo2) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - An implementation of org.apache.wicket.serialize.ISerializer for Wicket.
+* [LazyModel](https://github.com/wicketstuff/core/wiki/LazyModel) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Type-safe model implementation.
+* [Lightbox2 Plugin Integration](https://github.com/wicketstuff/core/wiki/Lightbox2-Plugin-Integration) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Simple, unobtrusive script used to overlay images on top of the current page.
+* [Logback](https://github.com/wicketstuff/core/wiki/Logback) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - The home for classes that can help with using wicket and [logback](http://logback.qos.ch/) together.
+* [MBeanView](https://github.com/wicketstuff/core/wiki/MBeanView) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - JMX panel, to view and operate the applications mbeans.
+* [Minis](https://github.com/wicketstuff/core/wiki/Minis) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Collection of assorted components and behaviors that are too small to warrant their own project.
+* [ModalX](https://github.com/wicketstuff/core/wiki/ModalX) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - A lightweight extension to Wicket's ModalWindow capabilities that comes with standardized MessageBox class and allows easy definition of Modal dialog box classes.
+* [OSGI](https://github.com/wicketstuff/core/wiki/Osgi) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Lets you use Wicket in OSGi environments.
+* [Open Layers 3](https://github.com/wicketstuff/core/tree/master/openlayers3-parent) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Provides a set of components that may be used to add interactive maps to a Wicket application.
+* [POI](https://github.com/wicketstuff/core/wiki/POI) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Integrates Wicket projects to Apache POI.
+* [Progressbar](https://github.com/wicketstuff/core/wiki/Progressbar) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Provides a progress bar component for Wicket.
+* [Push](https://github.com/wicketstuff/core/wiki/Push) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Provides support for Reverse AJAX in Wicket applications and allows them to "push" partial Web page updates to the Web browser.
+* [Scala Extensions](https://github.com/wicketstuff/core/wiki/ScalaExtensions) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Improves the syntax of Wicket models when using the Scala programming language.
+* [Select2](https://github.com/wicketstuff/core/tree/master/select2-parent) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Provides Apache Wicket components that leverage [Select2](http://ivaynberg.github.com/select2) JavaScript library to build select boxes that provide Ajax choice filtering, custom rendering and etc.
+* [Servlet Container Authentication and Authorization](https://github.com/wicketstuff/core/wiki/Servlet-Container-Authentication-and-Authorization) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Simplify the integration of wicket-auth-roles with the servlet 3 security container.
+* [Spring Reference](https://github.com/wicketstuff/core/wiki/SpringReference) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Can be used to integrate a wicket web application with spring.
+* [Stateless](https://github.com/wicketstuff/core/tree/master/stateless-parent) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Adds a few components that provide more comprehensive stateless features for Wicket.
+* [TinyMCE Integration](https://github.com/wicketstuff/core/wiki/TinyMCE-Integration) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Integration of the well-known TinyMCE WYSIWYG editor in Wicket.
+* [Twitter](https://github.com/wicketstuff/core/wiki/Twitter) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Contains wicket components and behaviors to use the Twitter widgets with wicket.
+* [UrlFragment](https://github.com/wicketstuff/core/tree/master/urlfragment-parent) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - With this you can build bookmarkable AJAX features and still support the back button.
+* [Whiteboard](https://github.com/wicketstuff/core/wiki/Whiteboard) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Provides a Whiteboard which can be integrated in any wicket application.
+* [wicket-foundation](https://github.com/wicketstuff/core/tree/master/wicket-foundation) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Integrates Wicket and [Zurb Foundation](http://foundation.zurb.com/).
+* [Wicket Rest Annotations](https://github.com/wicketstuff/core/tree/master/wicketstuff-restannotations-parent) ⭐ 351 | 🐛 66 | 🌐 Java | 📅 2026-09-01 - Provides a special resource class and a set of annotations to implement REST API/services in much the same way as we do it with Spring MVC or with the standard JAX-RS.
 * [WHighCharts](https://github.com/wicketstuff/wiquery-highcharts) ⭐ 11 | 🐛 2 | 🌐 JavaScript | 📅 2018-05-18 - Provides WiQuery bindings for HighCharts.
 * [WiQuery](https://github.com/wicketstuff/wiquery) ⭐ 8 | 🐛 3 | 🌐 Java | 📅 2026-08-31 - Wicket integration with jQuery and jQuery UI.
 * [WqPlot](https://github.com/wicketstuff/wiquery-jqplot) ⭐ 8 | 🐛 3 | 🌐 JavaScript | 📅 2015-11-17 - Provides WiQuery bindings for JqPlot.
@@ -130,7 +130,7 @@ Web Framework on top of wicket which allow you to build your system easily and s
 
 End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks)
 
-* [GeoServer](https://github.com/geoserver/geoserver) ⭐ 4,446 | 🐛 42 | 🌐 Java | 📅 2026-08-31 - Open source software server written in Java that allows users to share and edit geospatial data.
+* [GeoServer](https://github.com/geoserver/geoserver) ⭐ 4,448 | 🐛 43 | 🌐 Java | 📅 2026-09-01 - Open source software server written in Java that allows users to share and edit geospatial data.
 * [Orienteer](https://github.com/OrienteerDW/Orienteer) ⭐ 260 | 🐛 171 | 🌐 Java | 📅 2024-02-08 - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps.
 * [Estatio](https://github.com/estatio/estatio) ⚠️ Archived - Open source estate management built on Apache Isis and wicket.
 * [Yes Cart](https://github.com/inspire-software/yes-cart) ⭐ 113 | 🐛 15 | 🌐 Java | 📅 2026-08-18 - Pure e-Commerse platform.
@@ -150,4 +150,4 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
