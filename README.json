@@ -293,8 +293,8 @@
             "id": 23392431,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T23:22:30Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-04T22:52:28Z",
+            "open_issues": 13,
             "owner": "premium-minds",
             "repo": "wicket-crudifier",
             "stars": 12,
@@ -2044,7 +2044,7 @@
             "open_issues": 41,
             "owner": "geoserver",
             "repo": "geoserver",
-            "stars": 4448,
+            "stars": 4451,
             "topics": [
               "geoserver",
               "java",
@@ -2140,7 +2140,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T21:04:51.670Z",
+    "last_updated": "2026-09-05T20:45:04.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects powered by Apache Wicket ",

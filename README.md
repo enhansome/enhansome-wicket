@@ -20,7 +20,7 @@ Your contributions are always welcome!
 ## Generic Info
 
 * [Apache Wicket](http://wicket.apache.org/) - Wicket official site.
-* [Wicket on Github](https://github.com/apache/wicket) ⭐ 796 | 🐛 29 | 🌐 Java | 📅 2026-09-04 - Official mirror of Wicket on [GitHub](https://github.com).
+* [Wicket on Github](https://github.com/apache/wicket) ⭐ 796 | 🐛 29 | 🌐 Java | 📅 2026-09-05 - Official mirror of Wicket on [GitHub](https://github.com).
 * [Wicket on Twitter](https://twitter.com/apache_wicket) - Official account of Wicket.
 * [Wicket wiki](https://cwiki.apache.org/confluence/display/WICKET/Index) - Official knowledge base on Wiki about Wicket.
 * [Build With Wicket](https://builtwithwicket.tumblr.com/) - Official [Tumblr](https://www.tumblr.com/) account of Wicket.
@@ -44,7 +44,7 @@ List of libraries and components which can be used in your application
 * [wicket-dnd](https://github.com/svenmeier/wicket-dnd) ⭐ 19 | 🐛 10 | 🌐 Java | 📅 2023-06-13 - Generic Drag\&Drop framework for Wicket.
 * [wicket-jquery-selectors](https://github.com/l0rdn1kk0n/wicket-jquery-selectors) ⭐ 17 | 🐛 1 | 🌐 Java | 📅 2026-09-02 - Library for working with JQuery and Wicket.
 * [wicket-clientside-logging](https://github.com/l0rdn1kk0n/wicket-clientside-logging) ⭐ 15 | 🐛 0 | 🌐 Java | 📅 2018-03-02 - Helper library that allows javascript logging on client side, all log messages will be stored on server side too.
-* [wicket-crudifier](https://github.com/premium-minds/wicket-crudifier) ⭐ 12 | 🐛 14 | 🌐 Java | 📅 2026-08-31 - Library to easily create CRUD's with wicket.
+* [wicket-crudifier](https://github.com/premium-minds/wicket-crudifier) ⭐ 12 | 🐛 13 | 🌐 Java | 📅 2026-09-04 - Library to easily create CRUD's with wicket.
 * [wicket-autowire](https://github.com/wicket-acc/wicket-autowire) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2016-01-14 - Makes your life easier by automatic creation of component according to provided annotation.
 * [wicket-console](https://github.com/PhantomYdn/wicket-console) ⭐ 8 | 🐛 1 | 🌐 Java | 📅 2020-10-10 - Lightweight AJAX-enabled web console for runtime execution JS scripts on server side.
 * [wicket-requirejs](https://github.com/l0rdn1kk0n/wicket-requirejs) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2018-03-02 - Helper to use require.js in your Wicket application.
@@ -67,7 +67,7 @@ List of libraries and components which can be used in your application
 * [Console](https://github.com/wicketstuff/core/wiki/Console) ⭐ 351 | 🐛 63 | 🌐 Java | 📅 2026-09-04 - Provides support for executing code dynamically (at runtime).
 * [Context](https://github.com/wicketstuff/core/wiki/Context) ⭐ 351 | 🐛 63 | 🌐 Java | 📅 2026-09-04 - Used to locate components,models and models' objects declaratively with @Context annotation.
 * [Dashboard](https://github.com/wicketstuff/core/tree/master/dashboard-parent) ⭐ 351 | 🐛 63 | 🌐 Java | 📅 2026-09-04 - Support of dashboards for Wicket for quick access to required information in widgets.
-* [DataStores](https://github.com/wicketstuff/core/wiki/DataStores) ⭐ 351 | 🐛 63 | 🌐 Java | 📅 2026-09-04 - Collection of various implementation of [IDataStore](https://github.com/apache/wicket/blob/master/wicket-core/src/main/java/org/apache/wicket/pageStore/IDataStore.java) ⭐ 796 | 🐛 29 | 🌐 Java | 📅 2026-09-04: [MemCached](http://memcached.org/), [Apache Cassandra](http://cassandra.apache.org/), [Redis](http://redis.io/), [Hazelcast](http://www.hazelcast.com/).
+* [DataStores](https://github.com/wicketstuff/core/wiki/DataStores) ⭐ 351 | 🐛 63 | 🌐 Java | 📅 2026-09-04 - Collection of various implementation of [IDataStore](https://github.com/apache/wicket/blob/master/wicket-core/src/main/java/org/apache/wicket/pageStore/IDataStore.java) ⭐ 796 | 🐛 29 | 🌐 Java | 📅 2026-09-05: [MemCached](http://memcached.org/), [Apache Cassandra](http://cassandra.apache.org/), [Redis](http://redis.io/), [Hazelcast](http://www.hazelcast.com/).
 * [Datatable Autocomplete](https://github.com/wicketstuff/core/wiki/Datatable-Autocomplete) ⭐ 351 | 🐛 63 | 🌐 Java | 📅 2026-09-04 - Provides a search data structure known as a [Trie](http://en.wikipedia.org/wiki/Trie) that allows AJAX searches on large datasets fast.
 * [DataTables](https://github.com/wicketstuff/core/wiki/DataTables) ⭐ 351 | 🐛 63 | 🌐 Java | 📅 2026-09-04 - [DataTables jQuery](http://www.datatables.net/) Plugin Integration.
 * [Editable Grid](https://github.com/wicketstuff/core/wiki/Editable-Grid) ⭐ 351 | 🐛 63 | 🌐 Java | 📅 2026-09-04 - A grid component with add/edit/delete feature all at once, apart from supporting sorting/filtering/paging.
@@ -130,7 +130,7 @@ Web Framework on top of wicket which allow you to build your system easily and s
 
 End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks)
 
-* [GeoServer](https://github.com/geoserver/geoserver) ⭐ 4,448 | 🐛 41 | 🌐 Java | 📅 2026-09-04 - Open source software server written in Java that allows users to share and edit geospatial data.
+* [GeoServer](https://github.com/geoserver/geoserver) ⭐ 4,451 | 🐛 41 | 🌐 Java | 📅 2026-09-04 - Open source software server written in Java that allows users to share and edit geospatial data.
 * [Orienteer](https://github.com/OrienteerDW/Orienteer) ⭐ 260 | 🐛 171 | 🌐 Java | 📅 2024-02-08 - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps.
 * [Estatio](https://github.com/estatio/estatio) ⚠️ Archived - Open source estate management built on Apache Isis and wicket.
 * [Yes Cart](https://github.com/inspire-software/yes-cart) ⭐ 113 | 🐛 15 | 🌐 Java | 📅 2026-09-04 - Pure e-Commerse platform.
@@ -150,4 +150,4 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
