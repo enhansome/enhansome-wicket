@@ -2040,11 +2040,11 @@
             "id": 2751199,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T10:27:40Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-16T16:28:19Z",
+            "open_issues": 42,
             "owner": "geoserver",
             "repo": "geoserver",
-            "stars": 4456,
+            "stars": 4458,
             "topics": [
               "geoserver",
               "java",
@@ -2140,7 +2140,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T21:48:07.856Z",
+    "last_updated": "2026-09-16T21:46:03.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects powered by Apache Wicket ",
