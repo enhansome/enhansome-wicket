@@ -110,7 +110,7 @@ List of libraries and components which can be used in your application
 * [wicket-foundation](https://github.com/wicketstuff/core/tree/master/wicket-foundation) ⭐ 351 | 🐛 63 | 🌐 Java | 📅 2026-09-14 - Integrates Wicket and [Zurb Foundation](http://foundation.zurb.com/).
 * [Wicket Rest Annotations](https://github.com/wicketstuff/core/tree/master/wicketstuff-restannotations-parent) ⭐ 351 | 🐛 63 | 🌐 Java | 📅 2026-09-14 - Provides a special resource class and a set of annotations to implement REST API/services in much the same way as we do it with Spring MVC or with the standard JAX-RS.
 * [WHighCharts](https://github.com/wicketstuff/wiquery-highcharts) ⭐ 11 | 🐛 2 | 🌐 JavaScript | 📅 2018-05-18 - Provides WiQuery bindings for HighCharts.
-* [WiQuery](https://github.com/wicketstuff/wiquery) ⭐ 8 | 🐛 5 | 🌐 Java | 📅 2026-09-13 - Wicket integration with jQuery and jQuery UI.
+* [WiQuery](https://github.com/wicketstuff/wiquery) ⭐ 8 | 🐛 2 | 🌐 Java | 📅 2026-09-19 - Wicket integration with jQuery and jQuery UI.
 * [WqPlot](https://github.com/wicketstuff/wiquery-jqplot) ⭐ 8 | 🐛 3 | 🌐 JavaScript | 📅 2015-11-17 - Provides WiQuery bindings for JqPlot.
 
 ## Web Frameworks
@@ -130,7 +130,7 @@ Web Framework on top of wicket which allow you to build your system easily and s
 
 End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks)
 
-* [GeoServer](https://github.com/geoserver/geoserver) ⭐ 4,460 | 🐛 35 | 🌐 Java | 📅 2026-09-18 - Open source software server written in Java that allows users to share and edit geospatial data.
+* [GeoServer](https://github.com/geoserver/geoserver) ⭐ 4,460 | 🐛 36 | 🌐 Java | 📅 2026-09-18 - Open source software server written in Java that allows users to share and edit geospatial data.
 * [Orienteer](https://github.com/OrienteerDW/Orienteer) ⭐ 260 | 🐛 171 | 🌐 Java | 📅 2024-02-08 - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps.
 * [Estatio](https://github.com/estatio/estatio) ⚠️ Archived - Open source estate management built on Apache Isis and wicket.
 * [Yes Cart](https://github.com/inspire-software/yes-cart) ⭐ 113 | 🐛 15 | 🌐 Java | 📅 2026-09-04 - Pure e-Commerse platform.
@@ -150,4 +150,4 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
