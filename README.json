@@ -15,7 +15,7 @@
             "id": 3431492,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-09-27T10:35:29Z",
+            "last_commit": "2026-10-04T10:33:27Z",
             "open_issues": 23,
             "owner": "martin-g",
             "repo": "wicket-bootstrap",
@@ -251,7 +251,7 @@
             "id": 12748697,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T16:43:40Z",
+            "last_commit": "2026-10-04T19:43:34Z",
             "open_issues": 1,
             "owner": "martin-g",
             "repo": "wicket-jquery-selectors",
@@ -2140,7 +2140,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T21:52:18.880Z",
+    "last_updated": "2026-10-04T22:00:54.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects powered by Apache Wicket ",
