@@ -318,8 +318,8 @@
             "id": 19365464,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T22:36:17Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-16T22:34:23Z",
+            "open_issues": 5,
             "owner": "PhantomYdn",
             "repo": "wicket-console",
             "stars": 10,
@@ -2040,11 +2040,11 @@
             "id": 2751199,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T18:45:44Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-17T01:52:46Z",
+            "open_issues": 30,
             "owner": "geoserver",
             "repo": "geoserver",
-            "stars": 4476,
+            "stars": 4477,
             "topics": [
               "geoserver",
               "java",
@@ -2140,7 +2140,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T21:47:24.155Z",
+    "last_updated": "2026-10-17T21:03:58.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects powered by Apache Wicket ",
