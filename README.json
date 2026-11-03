@@ -37,7 +37,7 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-05-20T18:45:25Z",
-            "open_issues": 16,
+            "open_issues": 15,
             "owner": "MarcGiffing",
             "repo": "wicket-spring-boot",
             "stars": 155,
@@ -276,7 +276,7 @@
             "open_issues": 0,
             "owner": "gurita-dev",
             "repo": "wicket-clientside-logging",
-            "stars": 15,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
@@ -335,6 +335,27 @@
         },
         {
           "node_type": "item",
+          "title": "wicket-requirejs",
+          "description": "Helper to use require.js in your Wicket application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Some helper to use requirejs with Apache Wicket.",
+            "homepage": null,
+            "id": 9477032,
+            "language": "Java",
+            "license": null,
+            "last_commit": "2018-03-02T17:41:18Z",
+            "open_issues": 0,
+            "owner": "gurita-dev",
+            "repo": "wicket-requirejs",
+            "stars": 10,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:55:55.173Z"
+        },
+        {
+          "node_type": "item",
           "title": "wicket-autowire",
           "description": "Makes your life easier by automatic creation of component according to provided annotation.",
           "children": [],
@@ -350,27 +371,6 @@
             "owner": "wicket-acc",
             "repo": "wicket-autowire",
             "stars": 9,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:55:55.173Z"
-        },
-        {
-          "node_type": "item",
-          "title": "wicket-requirejs",
-          "description": "Helper to use require.js in your Wicket application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Some helper to use requirejs with Apache Wicket.",
-            "homepage": null,
-            "id": 9477032,
-            "language": "Java",
-            "license": null,
-            "last_commit": "2018-03-02T17:41:18Z",
-            "open_issues": 0,
-            "owner": "gurita-dev",
-            "repo": "wicket-requirejs",
-            "stars": 8,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
@@ -2040,8 +2040,8 @@
             "id": 2751199,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T00:21:47Z",
-            "open_issues": 35,
+            "last_commit": "2026-11-03T21:11:12Z",
+            "open_issues": 32,
             "owner": "geoserver",
             "repo": "geoserver",
             "stars": 4488,
@@ -2140,7 +2140,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T01:21:30.602Z",
+    "last_updated": "2026-11-03T23:43:35.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects powered by Apache Wicket ",
