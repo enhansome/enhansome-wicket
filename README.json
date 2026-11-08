@@ -15,7 +15,7 @@
             "id": 3431492,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-11-07T05:10:24Z",
+            "last_commit": "2026-11-08T10:21:47Z",
             "open_issues": 20,
             "owner": "martin-g",
             "repo": "wicket-bootstrap",
@@ -251,7 +251,7 @@
             "id": 12748697,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T04:45:30Z",
+            "last_commit": "2026-11-08T15:57:48Z",
             "open_issues": 0,
             "owner": "martin-g",
             "repo": "wicket-jquery-selectors",
@@ -1878,8 +1878,8 @@
                 "id": 45185128,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-04T17:53:32Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-08T12:02:39Z",
+                "open_issues": 4,
                 "owner": "wicketstuff",
                 "repo": "wiquery",
                 "stars": 8,
@@ -2130,7 +2130,7 @@
             "open_issues": 15,
             "owner": "inspire-software",
             "repo": "yes-cart",
-            "stars": 114,
+            "stars": 112,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:55.173Z"
@@ -2140,7 +2140,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T22:23:01.005Z",
+    "last_updated": "2026-11-08T22:32:34.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects powered by Apache Wicket ",
