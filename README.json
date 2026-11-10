@@ -37,7 +37,7 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-05-20T18:45:25Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "MarcGiffing",
             "repo": "wicket-spring-boot",
             "stars": 155,
@@ -484,7 +484,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -511,7 +511,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -538,7 +538,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -565,7 +565,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -592,7 +592,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -619,7 +619,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -646,7 +646,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -673,7 +673,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -700,7 +700,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -727,7 +727,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -754,7 +754,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -781,7 +781,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -808,7 +808,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -835,7 +835,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -862,7 +862,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -889,7 +889,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -916,7 +916,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -943,7 +943,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -970,7 +970,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -997,7 +997,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1024,7 +1024,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1051,7 +1051,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1078,7 +1078,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1105,7 +1105,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1132,7 +1132,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1159,7 +1159,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1186,7 +1186,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1213,7 +1213,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1240,7 +1240,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1267,7 +1267,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1294,7 +1294,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1321,7 +1321,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1348,7 +1348,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1375,7 +1375,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1402,7 +1402,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1429,7 +1429,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1456,7 +1456,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1483,7 +1483,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1510,7 +1510,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1537,7 +1537,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1564,7 +1564,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1591,7 +1591,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1618,7 +1618,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1645,7 +1645,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1672,7 +1672,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1699,7 +1699,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1726,7 +1726,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1753,7 +1753,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1780,7 +1780,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1807,7 +1807,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -1834,7 +1834,7 @@
                 "open_issues": 61,
                 "owner": "wicketstuff",
                 "repo": "core",
-                "stars": 351,
+                "stars": 352,
                 "topics": [
                   "apache-wicket",
                   "integrations",
@@ -2040,11 +2040,11 @@
             "id": 2751199,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T01:04:01Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-10T16:17:14Z",
+            "open_issues": 31,
             "owner": "geoserver",
             "repo": "geoserver",
-            "stars": 4492,
+            "stars": 4495,
             "topics": [
               "geoserver",
               "java",
@@ -2140,7 +2140,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T01:47:01.752Z",
+    "last_updated": "2026-11-10T23:46:56.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects powered by Apache Wicket ",
