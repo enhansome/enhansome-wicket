@@ -2044,7 +2044,7 @@
             "open_issues": 31,
             "owner": "geoserver",
             "repo": "geoserver",
-            "stars": 4497,
+            "stars": 4498,
             "topics": [
               "geoserver",
               "java",
@@ -2140,7 +2140,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T01:05:11.281Z",
+    "last_updated": "2026-11-12T23:54:39.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects powered by Apache Wicket ",
