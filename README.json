@@ -159,7 +159,7 @@
             "id": 262714137,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2025-08-16T07:58:17Z",
+            "last_commit": "2026-11-21T23:31:15Z",
             "open_issues": 2,
             "owner": "OrienteerBAP",
             "repo": "JNPM",
@@ -2040,8 +2040,8 @@
             "id": 2751199,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T18:24:09Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-21T16:38:39Z",
+            "open_issues": 33,
             "owner": "geoserver",
             "repo": "geoserver",
             "stars": 4504,
@@ -2140,7 +2140,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:22:29.046Z",
+    "last_updated": "2026-11-21T23:36:25.305Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects powered by Apache Wicket ",
